@@ -11,3 +11,6 @@ Features:
 - Output stage based on TPA6120A2
 - USB powered, analog stage runs off +/-10V
 - Front panel control performed by an STM32 MCU on the https://github.com/bengineer91/STM32G4_SOM
+
+
+<img width="894" height="812" alt="STM32_SOM_top" src="Viewables/STM32_top.png" />
