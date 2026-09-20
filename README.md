@@ -13,4 +13,4 @@ Features:
 - Front panel control performed by an STM32 MCU on the https://github.com/bengineer91/STM32G4_SOM
 
 
-viewables/Mini_DSP_Headphone_Amplifier.jpg
+<img src="viewables/Mini_DSP_Headphone_Amplifier.jpg" alt="Mini DSP Headphone Amplifier" width="500">
