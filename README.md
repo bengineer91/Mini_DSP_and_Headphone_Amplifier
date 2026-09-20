@@ -13,4 +13,4 @@ Features:
 - Front panel control performed by an STM32 MCU on the https://github.com/bengineer91/STM32G4_SOM
 
 
-<img width="894" height="812" alt="STM32_SOM_top" src="Viewables/STM32_top.png" />
+<img width="894" height="812" alt="STM32_SOM_top" src="Viewables/Mini_DSP_Headphone_Amplifier.jpg" />
