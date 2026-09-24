@@ -16,6 +16,7 @@ Features:
 Known Debug Issues:
 - Removed R79 and R81, added to to other side of the series resistor via white wire on back of board
 - ~0.6V DC offset on the output of R74 when +/-10V is off
+- currently determining which is manufacturing vs design
 
 V2 Suggested Improvements
 - I2C test points
