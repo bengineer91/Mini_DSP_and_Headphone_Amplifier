@@ -13,4 +13,16 @@ Features:
 - Front panel control performed by an STM32 MCU on the https://github.com/bengineer91/STM32G4_SOM
 
 
+Known Debug Issues:
+- Removed R79 and R81, added to to other side of the series resistor via white wire on back of board
+- ~0.6V DC offset on the output of R74 when +/-10V is off
+
+V2 Suggested Improvements
+- I2C test points
+- encoder pull ups need to be between series resistor and encoder
+- thru hole test point for ground so I can clip a lead to it
+- testability: add jumpers so I can manually turn on/off the power rails. Currently beholden to the ADS7128 working.
+
+
+
 <img src="viewables/Mini_DSP_Headphone_Amplifier.jpg" alt="Mini DSP Headphone Amplifier" width="500">
